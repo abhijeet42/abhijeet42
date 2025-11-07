@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Featured Project
-#### 🧩 Scam Detection App (Winner – Sustainthon 2025)
+#### 🧩 Scam Detection App (Winner – Sustainthon 2025 in Cybersecurity)
 A **React Native (Expo)** mobile app that detects **scam messages and screenshots** using **OCR** and **AI-based classification**.  
 Ensures user safety by identifying **phishing** and **fraudulent content** in real time.
 
@@ -47,9 +47,9 @@ Ensures user safety by identifying **phishing** and **fraudulent content** in re
   <img height="160em" src="https://streak-stats.demolab.com?user=abhijeet42&theme=tokyonight&hide_border=true" alt="Abhijeet's GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+</p> -->
 
 ---
 
